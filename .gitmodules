@@ -1,0 +1,3 @@
+[submodule "remotes"]
+	path = remotes
+	url = git@github.com:omg1980/flt_telephony_info.git
